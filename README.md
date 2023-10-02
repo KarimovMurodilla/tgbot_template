@@ -8,7 +8,7 @@ Each part can be replaced keeping the overall structure the same
 
 1. Edit code in a correspoing way
 
-2. Upadte `pip` and `setuptools` packages
+2. Update `pip` and `setuptools` packages
 
 ```shell
 pip install -U setuptools pip 
